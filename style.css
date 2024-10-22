@@ -9,13 +9,13 @@ text-align: center;
 
 header{
     border-bottom: solid black 5px;
-
 }
 
 img {
     width: 50%;
 }
 
-h1{
+.titulo{
     color: rgb(255, 194, 81);
+    font-size: 110%;
 }
